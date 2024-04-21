@@ -1,4 +1,5 @@
-#include "tdas/list.h"
+#include "list.h"
+#include "list.c"
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
