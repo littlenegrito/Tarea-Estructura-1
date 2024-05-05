@@ -10,7 +10,7 @@ Este programa sirve para gestionar la atención de pacientes de un hospital, inc
 3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
 4. Pega la URL del repositorio: `(https://github.com/littlenegrito/Tarea-Estructura-1.git)`.
 5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
-6. Antes de ejecutar, copia el codigo "(gcc -o main main.c tdas/extra.c tdas/list.c tdas/map.c && ./main)" en la configuración de ejecutar
+6. Antes de ejecutar, copia el codigo '(gcc -o main main.c tdas/extra.c tdas/list.c tdas/map.c && ./main)' en la configuración de ejecutar
 7. Presiona el botón "Run" para compilar y ejecutar la aplicación.
 
 ## Funcionalidades
